@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DigiApp</string>
+
+    <string-array name="digimon_categories">
+        <item>All</item>
+        <item>Rookie</item>
+        <item>Fresh</item>
+        <item>Champion</item>
+        <item>Mega</item>
+        <item>Ultimate</item>
+        <item>Armor</item>
+    </string-array>
+</resources>

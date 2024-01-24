@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rated"
+        android:title="Mejor Valoradas" />
+    <item
+        android:id="@+id/popular"
+        android:title="Más Populares" />
+    <item
+        android:id="@+id/upcoming"
+        android:title="Próximos Lanzamientos" />
+</menu>
